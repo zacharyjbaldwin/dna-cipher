@@ -1,10 +1,12 @@
 # dna-cipher
 Cipher your text into A, C, G, and T.
 
-## Examples
+## Usage
+
+Install: `npm i --save dna-cipher`
 
 ```javascript
-const dnaCipher = require('../index');
+const dnaCipher = require('dna-cipher');
 
 let ciphertext = dnaCipher.encipher('Hello world!');
 let plaintext = dnaCipher.decipher(ciphertext);
