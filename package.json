@@ -1,0 +1,27 @@
+{
+  "name": "dna-cipher",
+  "version": "1.0.0",
+  "description": "Cipher your text into A, C, G, and T.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyjbaldwin/dna-cipher.git"
+  },
+  "keywords": [
+    "dna",
+    "cipher",
+    "a",
+    "c",
+    "g",
+    "t"
+  ],
+  "author": "Zachary Baldwin <zacharyjbaldwin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zacharyjbaldwin/dna-cipher/issues"
+  },
+  "homepage": "https://github.com/zacharyjbaldwin/dna-cipher#readme"
+}
